@@ -1,0 +1,2 @@
+In this Python code that I posted,you can get the latest prices of digital currencies,and if the site I posted is not acceptable to you,find a site that has an API and replace that link.
+By the way,this is designed for VSCode,but if you want the terminal,email me and I'll send it to you.
