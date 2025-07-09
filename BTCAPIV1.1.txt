@@ -1,0 +1,13 @@
+This script retrieves the current price of Bitcoin(BTC) in USD using the CoinGecko public API.
+
+If the retrieved price is lower than the threshold defined in the variable 'my_good_price'(e.g.,45000 USD),a notification message is displayed:"inform AS35WLT".(You can also change the name and write your own name.)
+
+Usage:
+- Ensure you have an active internet connection.
+- The 'requests' library must be installed(you can install it via 'pip install requests').
+- Modify the 'my_good_price' variable as needed.
+- Run the script with a Python interpreter.
+
+This script can be used as part of a price monitoring or alert system for cryptocurrency tracking.
+
+Thank You.
