@@ -1,0 +1,22 @@
+This Python script monitors the current price of Bitcoin(BTC) in USD using the CoinGecko API.
+
+If the current price drops below the threshold defined in the variable 'my_good_price'(e.g., 200000 USD),a custom alert function 'inform_AS35WLT()' is triggered.
+This function displays a notification message indicating the price drop.
+
+Key Features:
+- Retrieves real-time BTC price from the CoinGecko public API.
+- Uses a modular approach by defining a separate notification function.
+- Easily configurable price threshold.
+
+Requirements:
+- Internet connection
+- Python 'requests' library(install via 'pip install requests')
+
+Usage: 
+1. Set the desired threshold in the 'my_good_price' variable.
+2. Run the script with a Python interpreter.
+3. If BTC price is below the defined threshold,an alert message will be printed.
+
+This script is suitable for basic Bitcoin price alerting or as a starting point for building more advanced crypto monitoring systems.
+
+Thank You.
